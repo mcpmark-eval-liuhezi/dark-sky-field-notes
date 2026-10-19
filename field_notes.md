@@ -65,7 +65,7 @@ For each park we queried the National Park Service API for (a) **visitor centers
 
 ### 1.4 Image side
 
-One night-sky image search per park (4 searches × 10 results = **40 raw images**). Sixteen representative candidates were carried into a semantic near-duplicate filter (16 → 5 distinct themes), and the best 5 covering all four parks were kept — one per park plus a second Acadia pick. URLs in Section 4.
+One night-sky image search per park (4 searches × 10 results = **40 raw images**). Sixteen representative candidates were carried into a semantic near-duplicate filter (16 → 5 distinct themes), and the best 5 covering all four parks were kept — one per park plus a second Great Basin pick. URLs in Section 4.
 
 ---
 
